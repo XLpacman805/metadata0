@@ -1,0 +1,9 @@
+/* styles */
+/* called b{y your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+body{
+  paddint-top:6em;
+}
